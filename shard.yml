@@ -1,0 +1,7 @@
+name: porter
+version: 0.1.0
+
+authors:
+  - Ricardo Tomasi <ricardo.tomasi@booking.com>
+
+license: MIT
